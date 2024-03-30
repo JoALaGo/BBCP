@@ -12,7 +12,7 @@ that characterize features of the software’s behavior. In contrast to other mo
 probability are involved in software execution and its evolution over time, helping its users to gather an expectation of software
 usage and hardware consumption from the initial stages of software development. 
 
-# Examples generated with Insight Maker
+# Example models created with Insight Maker
 ## Game Stream Profile
 - Game Stream Profile (1st Cycle): https://insightmaker.com/insight/3RUGFBRxFbB1xt7szTrIGY/Game-stream-service
 - Game Stream Profile (2nd Cycle):  https://insightmaker.com/insight/2LwDgPTxw8HjluWrhBeiDn/Game-stream-service-second-cycle
