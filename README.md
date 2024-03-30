@@ -13,7 +13,13 @@ probability are involved in software execution and its evolution over time, help
 usage and hardware consumption from the initial stages of software development. 
 
 # Example models created with Insight Maker
+
 ## Game Stream Profile
+To provide an example that demonstrates a realistic use case for our BBCP, we analyzed an existing application from the perspective of service-oriented architectures (SOA) and created a couple of example BBCPs to simulate the behavior of the target application Geforce Now, a cloud gaming service developed by NVIDIA. In cloud gaming, the hardware responsible for running the game and managing inputs and outputs from and to the consumer is in the cloud (a computer cluster in the network), making use of software as a service delivery model (SaaS) based on subscriptions. 
+
+The user provides hardware peripheral input such as mouse movement and keyboard strokes to the cloud through the internet, which in turn gets processed to provide the user with an output, usually in the form of video and audio, also sent over the internet. We chose this application due to the popularity of streaming platforms and its easy architectural abstraction into components. From a SOA perspective, there are 2 services that we profiled: the catalog service and the stream service. 
+
+The catalog service is responsible for offering the user a catalog of the available games to play. Once a game is selected, the game stream service is responsible for the rest of the I/O operations until the user decides to stop playing. The objective of the example is to obtain an estimation of the energy consumption of the game stream service using BBCPs in coalition with the time constraints that the subscription service employs to limit the behavior of the user. 
 - Game Stream Profile (1st Cycle): https://insightmaker.com/insight/3RUGFBRxFbB1xt7szTrIGY/Game-stream-service
 - Game Stream Profile (2nd Cycle):  https://insightmaker.com/insight/2LwDgPTxw8HjluWrhBeiDn/Game-stream-service-second-cycle
 - Catalog Service (Shell - 1st Cycle): https://insightmaker.com/insight/3ezUM7LGPJPwK4kw7hRQ2p/Catalog-Service-Shell
