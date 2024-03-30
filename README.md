@@ -11,3 +11,8 @@ and designers in modeling the behavior of software. The models generated with ou
 that characterize features of the software’s behavior. In contrast to other modeling languages, our BBCP emphasizes how time and
 probability are involved in software execution and its evolution over time, helping its users to gather an expectation of software
 usage and hardware consumption from the initial stages of software development. 
+
+# Examples generated with Insight Maker
+- Game Stream Profile (1st Cycle): https://insightmaker.c
+om/insight/3RUGFBRxFbB1xt7szTrIGY/Game-strea
+m-service. 
