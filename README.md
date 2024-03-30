@@ -13,6 +13,9 @@ probability are involved in software execution and its evolution over time, help
 usage and hardware consumption from the initial stages of software development. 
 
 # Examples generated with Insight Maker
-- Game Stream Profile (1st Cycle): https://insightmaker.c
-om/insight/3RUGFBRxFbB1xt7szTrIGY/Game-strea
-m-service. 
+## Game Stream Profile
+- Game Stream Profile (1st Cycle): https://insightmaker.com/insight/3RUGFBRxFbB1xt7szTrIGY/Game-stream-service
+- Game Stream Profile (2nd Cycle):  https://insightmaker.com/insight/2LwDgPTxw8HjluWrhBeiDn/Game-stream-service-second-cycle
+- Catalog Service (Shell - 1st Cycle): https://insightmaker.com/insight/3ezUM7LGPJPwK4kw7hRQ2p/Catalog-Service-Shell
+- Catalog Service (Shell - 2nd Cycle): https://insightmaker.com/insight/2vKeUIARREkXPnJF5PWBd7/Catalog-service-shell-second-cycle
+> Disclamer: Some of the models could stop working due to the changes made by the developers of Insight Maker.
