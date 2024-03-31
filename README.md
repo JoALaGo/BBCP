@@ -1,4 +1,4 @@
-# BBCP
+# Behavior Based Consumption Profiles (BBCP)
 
 Despite the increase in the efficiency of energy consumption in information and communication technology, software execution
 and its constraints are responsible for how energy is consumed in hardware hosts. Consequently, researchers have promoted the
@@ -12,7 +12,7 @@ that characterize features of the software’s behavior. In contrast to other mo
 probability are involved in software execution and its evolution over time, helping its users to gather an expectation of software
 usage and hardware consumption from the initial stages of software development. 
 
-# Example models created with Insight Maker
+# Sample models created with Insight Maker
 
 ## Game Stream Profile
 To provide an example that demonstrates a realistic use case for our BBCP, we analyzed an existing application from the perspective of service-oriented architectures (SOA) and created a couple of example BBCPs to simulate the behavior of the target application Geforce Now, a cloud gaming service developed by NVIDIA. In cloud gaming, the hardware responsible for running the game and managing inputs and outputs from and to the consumer is in the cloud (a computer cluster in the network), making use of software as a service delivery model (SaaS) based on subscriptions. 
